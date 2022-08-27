@@ -16,35 +16,35 @@ interests:
 - Data Cleaning
 - Tidyverse / R / RStudio
 organizations:
-- name: Duke University Libraries
-  url: https://library.duke.edu/data
-role: Data Science Librarian
+- name: Universitätsklinik für Chirurgie Salzburg
+  url: https://salk.at/16002.html
+role: Leitender Oberarzt
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
     header: true
-- icon: youtube
-  icon_pack: fab
-  link: https://youtube.com/johnlittle1    
+- icon: pubmed
+  icon_pack: ai
+  link: https://www.ncbi.nlm.nih.gov/myncbi/tarkan.jager.1/bibliography/public/
 - icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/john_little
+  link: https://twitter.com/Tarkan_Jaeger
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/0000-0002-3600-0972
-- icon: github
-  icon_pack: fab
-  link: https://github.com/libjohn
+  link: https://orcid.org/0000-0002-2390-0226
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.de/citations?hl=de&pli=1&user=ZUt-GNEAAAAJ
 superuser: true
-title: John Little
+title: Priv.-Doz. Tarkan Jäger
 ---
 
-As a Data Science Librarian/Consultant in the [**Center for Data & Visualization Sciences**](//library.duke.edu/data), I help Duke University students and researchers navigate practical data science challenges.  To that end I provide a series of *workshops* on *R*; offer walk-in and by-appointment consultations; and host the *R we having fun yet* learning series ([**Rfun**](//rfun.library.duke.edu/)). 
+Als leitender Oberarzt an der [**Universtitätsklinik für Chirurgie**](//salk.at/16002.html) behandele ich hauptsächlich PatientInnen mit Krebserkrankungen des Bauchraumes. Dabei kommen neben den klassischen offenen Resektionsmethoden, minimalinvasive (laparoskopisch, roboterassitiert) Verfahren zur Anwendung... 
 
-My [workshops](#workshops) and presentations focus on using **R** as a **data-first** coding language via the **Tidyverse** dialect, Reproducibility and tidy data, Text mining and sentiment analysis, Twitter and APIs, web scraping, data parsing, data cleaning, and data visualization. Each workshop is designed as a hands-on experience where you can download  practice data, presentation slides, and workbook guides.  Recorded [video streaming](https://youtube.com/johnlittle1) is often available. 
+Über meine Wahlarztordination [workshops](#workshops) biete ich im wesentlichen eine konsiliarische Beratung und Begutachtung an. Hauptfokus liegt dabei in der klaren zusammenfassenden Analyse der bestehenden Situation und einer entsprechenden weiteren Therapieempfehlung...
 
 ***
 
