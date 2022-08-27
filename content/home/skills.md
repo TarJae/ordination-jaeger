@@ -9,25 +9,25 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Privatordination
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Data-first coding & analysis
-  icon: r-project
-  icon_pack: fab
-  name: Tidyverse / R / RStudio
-- description: Workshops and Consultations
+- description: Behandlungsplan, Übersicht
+  icon: hand-holding-medical
+  icon_pack: fas
+  name: Beratung
+- description: Begutachtung, Evaluierung
   icon: users  # file-csv, code, users
   icon_pack: fas
-  name: Instruction
-- description: Version control & data workflows
-  icon: code-branch
+  name: Zweitmeinung
+- description: Operationsindikation
+  icon: head-side-mask
   icon_pack: fas
-  name: Reproducibility
+  name: Aufklärung
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
