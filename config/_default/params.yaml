@@ -32,15 +32,15 @@ address:
 coordinates:
   latitude: '47.806950'
   longitude: '13.035120'
-directions: Walk-in hours in the Brandaleone Lab, 1st Floor. Bostock Library.
-office_hours:
-  - 'Wednesday 1:00 PM to 3:00 PM'
+directions: 4 Gehminuten von Parkplatz - Müllner Bräu
+Ordinationszeiten:
+  - 'Mittwoch 16:00 - 20:00'
 appointment_url: 'https://duke.libcal.com/appointments/little'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: Twitter
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/Tarkan_Jaeger'
   - icon: youtube
     icon_pack: fab
     name: YouTube
@@ -68,15 +68,15 @@ main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: true
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+date_format: 'Monday, 02 Jan 2006	'
+time_format: '15:04'
 address_format: en-us
 
 # Site features
