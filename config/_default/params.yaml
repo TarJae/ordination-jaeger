@@ -21,17 +21,17 @@ twitter: 'john_little'
 # Contact (edit or remove options as required)
 
 # email: John.Little@Duke.edu
-phone: (919) 627-7795
+phone: +43 57255-51086
 address:
-  street: 411 Chapel Drive
-  city: Duke University, Durham
-  region: NC
-  postcode: '27708'
-  country: United States
-  country_code: US
+  street: Salzachgässchen 4/1a
+  city: Salzburg
+  region: Salzburg
+  postcode: '5020'
+  country: Österreich
+  country_code: A
 coordinates:
-  latitude: '36.00299'
-  longitude: '-78.93841'
+  latitude: '47.806950'
+  longitude: '13.035120'
 directions: Walk-in hours in the Brandaleone Lab, 1st Floor. Bostock Library.
 office_hours:
   - 'Wednesday 1:00 PM to 3:00 PM'
