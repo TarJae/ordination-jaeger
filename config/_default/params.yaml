@@ -14,14 +14,14 @@ font_size: L
 
 site_type: Person
 local_business_type: 'library'
-org_name: 'Rfun. Center for Data & Visualization Sciences. Duke University Libraries'
-description: 'John Little is a data science librarian in the Center for Data & Visualization Sciences'
-twitter: 'john_little'
+org_name: 'PIPAC. HIPEC. SALK. Zweitmeinung. Ordination. Bauchfellkrebs'
+description: 'Bauchfellkrebs, Peritonealkarzinose, Peritoneale Metastasierung, Krebs'
+twitter: 'Tarkan_Jaeger'
 
 # Contact (edit or remove options as required)
 
-# email: John.Little@Duke.edu
-phone: +43 57255-51086
+email: mail@jaeger-ordination.com
+phone: +43 676 3137663
 address:
   street: Salzachgässchen 4/1a
   city: Salzburg
@@ -30,37 +30,37 @@ address:
   country: Österreich
   country_code: A
 coordinates:
-  latitude: '47.806950'
-  longitude: '13.035120'
+  latitude: '47.80700'
+  longitude: '13.03548'
 directions: 4 Gehminuten von Parkplatz - Müllner Bräu
 Ordinationszeiten:
   - 'Mittwoch 16:00 - 20:00'
-appointment_url: 'https://duke.libcal.com/appointments/little'
+appointment_url: 'https://calendly.com/event_types/user/me'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Twitter
-    link: 'https://twitter.com/Tarkan_Jaeger'
-  - icon: youtube
-    icon_pack: fab
-    name: YouTube
-    link: 'https://youtube.com/johnlittle1'
-  - icon: github
-    icon_pack: fab
-    name: GitHub
-    link: 'https://github.com/libjohn'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   name: Twitter
+  #   link: 'https://twitter.com/Tarkan_Jaeger'
+  # - icon: youtube
+  #   icon_pack: fab
+  #   name: YouTube
+  #   link: 'https://youtube.com/johnlittle1'
+  # - icon: github
+  #   icon_pack: fab
+  #   name: GitHub
+  #   link: 'https://github.com/libjohn'
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me
   #   link: 'skype:echo123?call'
-  - icon: google-scholar
-    icon_pack: ai
-    name: Google Scholar
-    link: 'https://scholar.google.de/citations?hl=de&pli=1&user=ZUt-GNEAAAAJ'
-  - icon: pubmed
-    icon_pack: ai
-    name: Pubmed
-    link: 'https://www.ncbi.nlm.nih.gov/myncbi/tarkan.jager.1/bibliography/public/'
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   name: Google Scholar
+  #   link: 'https://scholar.google.de/citations?hl=de&pli=1&user=ZUt-GNEAAAAJ'
+  # - icon: pubmed
+  #   icon_pack: ai
+  #   name: Pubmed
+  #   link: 'https://www.ncbi.nlm.nih.gov/myncbi/tarkan.jager.1/bibliography/public/'
   # - icon: comments
   #   icon_pack: fas
   #   name: Discuss on Forum
@@ -81,7 +81,7 @@ main_menu:
 
 date_format: 'Monday, 02 Jan 2006	'
 time_format: '15:04'
-address_format: en-us
+address_format: de
 
 # Site features
 
@@ -156,7 +156,7 @@ search:
 map:
   provider: mapnik
   api_key: ''
-  zoom: 15
+  zoom: 20
 marketing:
   google_analytics: ''
   google_tag_manager: ''
