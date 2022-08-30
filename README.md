@@ -47,3 +47,7 @@ Start a new Publication
 4.  Using that output, in the Terminal CLI, call Hugo …
     <br>`hugo new content/publication/<my-publication>`
     ([Documentation](https://wowchemy.com/docs/content/publications/#command-line))
+
+## Connection test with rstudio cloud
+
+Hello
