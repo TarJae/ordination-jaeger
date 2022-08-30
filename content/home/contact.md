@@ -18,12 +18,12 @@ content:
   
   # Email form provider (replace nobody with formspree or netlify)
   form:
-    provider: netlify
+    provider: formspree
     formspree:
       id: xyyvzvvb
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+      captcha: false
   
 design:
   columns: '2'
