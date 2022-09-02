@@ -57,7 +57,7 @@
 - id: btn_download
   translation: Download
 - id: interests
-  translation: Interessen
+  translation: Terminvereinbarung
 - id: education
   translation: Bildung
 - id: user_profile_latest

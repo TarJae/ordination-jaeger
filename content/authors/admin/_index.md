@@ -1,5 +1,5 @@
 ---
-bio: Using the [Tidyverse](https://rviews.rstudio.com/2017/06/08/what-is-the-tidyverse/) to wrangle data into happy little rectangles
+bio: 
 education:
   courses:
   - course: MSLS Library & Information Science
@@ -11,7 +11,6 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Data Science
 - Reproducibility / Git
 - Data Cleaning
 - Tidyverse / R / RStudio
@@ -42,9 +41,9 @@ superuser: true
 title: Priv.-Doz. Tarkan Jäger
 ---
 
-Als leitender Oberarzt an der [**Universtitätsklinik für Chirurgie**](//salk.at/16002.html) behandele ich hauptsächlich PatientInnen mit Krebserkrankungen des Bauchraumes. Dabei kommen neben den klassischen offenen Resektionsmethoden, minimalinvasive (laparoskopisch, roboterassitiert) Verfahren zur Anwendung... 
+Als leitender Oberarzt an der [**Universtitätsklinik für Allgemein-, Viszeral- und Thoraxchirurgie**](//salk.at/16002.html) behandle ich hauptsächlich PatientInnen mit Krebserkrankungen des Bauchraumes. Dabei kommen neben den klassischen offenen Resektionsmethoden, minimalinvasive (laparoskopisch, roboterassitiert) Verfahren zur Anwendung.
 
-Über meine Wahlarztordination [workshops](#workshops) biete ich im wesentlichen eine konsiliarische Beratung und Begutachtung an. Hauptfokus liegt dabei in der klaren zusammenfassenden Analyse der bestehenden Situation und einer entsprechenden weiteren Therapieempfehlung...
+Über meine Wahlarztordination [workshops](#workshops) biete ich im Wesentlichen eine konsiliarische Beratung und Begutachtung an. Hauptfokus liegt dabei in der klaren zusammenfassenden Analyse der bestehenden Situation und einer entsprechenden weiteren Therapieempfehlung...
 
 ***
 
