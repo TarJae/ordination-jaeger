@@ -38,7 +38,7 @@ main:
     url: '#contact'
     weight: 20
   - name: Gallerie
-    url: '#blank'
+    url: '#gallery'
     weight: 30
   - name: Auszeichnungen
     url: '#accomplishments'
