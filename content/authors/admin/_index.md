@@ -11,9 +11,7 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Über Kontakt ([Kontakt](#contact))
-- Data Cleaning
-- Tidyverse / R / RStudio
+- Über [Kontakt](#contact)
 organizations:
 - name: Universitätsklinik für Chirurgie Salzburg
   url: https://salk.at/16002.html

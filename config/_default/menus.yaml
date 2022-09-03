@@ -32,7 +32,7 @@ main:
   #   url: '#experience'
   #   weight: 50
   - name: Leistungen
-    url: '#featurette'
+    url: '#skills'
     weight: 10
   - name: Kontakt
     url: '#contact'
