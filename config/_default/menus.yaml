@@ -19,18 +19,27 @@ main:
   # - name: Courses
   #   url: courses/
   #   weight: 60
-  - name: Publikationen
-    url: '#publications'
-    weight: 20
-  - name: Praxis
-    url: '#workshops'
+  # - name: Publikationen
+  #   url: '#publications'
+  #   weight: 20
+  # - name: Praxis
+  #   url: '#workshops'
+  #   weight: 10
+  # - name: Posts
+  #   url: '#posts'
+  #   weight: 40
+  # - name: Erfahrung
+  #   url: '#experience'
+  #   weight: 50
+   - name: Leistungen
+    url: '#featurette'
     weight: 10
-  - name: Posts
-    url: '#posts'
-    weight: 40
-  - name: Erfahrung
-    url: '#experience'
-    weight: 50
   - name: Kontakt
     url: '#contact'
-    weight: 60
+    weight: 20
+  - name: Gallerie
+    url: '#blank'
+    weight: 30
+  - name: Auszeichnungen
+    url: '#accomplishments'
+    weight: 40

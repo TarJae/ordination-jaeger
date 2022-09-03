@@ -11,7 +11,7 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Reproducibility / Git
+- Über Kontakt ([Kontakt](#contact))
 - Data Cleaning
 - Tidyverse / R / RStudio
 organizations:
@@ -38,12 +38,12 @@ social:
   icon_pack: ai
   link: https://scholar.google.de/citations?hl=de&pli=1&user=ZUt-GNEAAAAJ
 superuser: true
-title: Priv.-Doz. Tarkan Jäger
+title: Priv.-Doz. Dr. Tarkan Jäger
 ---
 
 Als leitender Oberarzt an der [**Universtitätsklinik für Allgemein-, Viszeral- und Thoraxchirurgie**](//salk.at/16002.html) behandle ich hauptsächlich PatientInnen mit Krebserkrankungen des Bauchraumes. Dabei kommen neben den klassischen offenen Resektionsmethoden, minimalinvasive (laparoskopisch, roboterassitiert) Verfahren zur Anwendung.
 
-Über meine Wahlarztordination [Kontakt](#contact) biete ich im Wesentlichen eine konsiliarische Beratung und Begutachtung an. Hauptfokus liegt dabei in der klaren zusammenfassenden Analyse der bestehenden Situation und einer entsprechenden weiteren Therapieempfehlung.
+Über meine Wahlarztordination biete ich im Wesentlichen eine konsiliarische Beratung und Begutachtung an. Hauptfokus liegt dabei in der klaren zusammenfassenden Analyse der bestehenden Situation und einer entsprechenden weiteren Therapieempfehlung.
 
 ***
 

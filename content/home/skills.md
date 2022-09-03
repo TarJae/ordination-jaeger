@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Privatordination
+title: Leistungen
 subtitle:
 
 # Showcase personal skills or business features.
@@ -29,11 +29,11 @@ feature:
   icon_pack: fas
   name: Aufklärung
 
-# Uncomment to use emoji icons.
-#- icon: ':smile:'
-#  icon_pack: emoji
-#  name: Emojiness
-#  description: 100% 
+Uncomment to use emoji icons.
+- icon: ':smile:'
+ icon_pack: emoji
+ name: Emojiness
+ description: 100%
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.

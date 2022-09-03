@@ -27,10 +27,10 @@ item:
 - certificate_url: https://salk.at/16144.html
   date_end: ""
   date_start: "2017-11-20"
-  description: "Sanofi Forschungspreis"
+  description: "Applicability of American Joint Committee on Cancer and College of American Pathologists Regression Grading System in Rectal Cancer"
   organization: Sanofi
   organization_url: https://www.coursera.org
-  title: Applicability of American Joint Committee on Cancer and College of American Pathologists Regression Grading System in Rectal Cancer 
+  title: Sanofi Forschungspreis 
   url: ""
 # - certificate_url: https://salk.at/16144.html
 #   date_end: ""
