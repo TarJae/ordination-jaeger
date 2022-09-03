@@ -31,16 +31,13 @@ main:
   # - name: Erfahrung
   #   url: '#experience'
   #   weight: 50
-  - name: Home
-    url: '#about'
-    weight: 10
   - name: Leistungen
     url: '#skills'
     weight: 20
   - name: Kontakt
     url: '#contact'
     weight: 30
-  - name: Gallerie
+  - name: Galerie
     url: '#gallery'
     weight: 40
   - name: Auszeichnungen
