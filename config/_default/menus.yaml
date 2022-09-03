@@ -31,7 +31,7 @@ main:
   # - name: Erfahrung
   #   url: '#experience'
   #   weight: 50
-   - name: Leistungen
+  - name: Leistungen
     url: '#featurette'
     weight: 10
   - name: Kontakt
