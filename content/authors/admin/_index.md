@@ -1,6 +1,6 @@
 ---
 bio: 
-education:
+Information:
   courses:
   - course: MSLS Library & Information Science
     institution: UNC Chapel Hill
