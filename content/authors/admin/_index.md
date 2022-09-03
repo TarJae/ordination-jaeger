@@ -2,15 +2,14 @@
 bio: 
 education:
   courses:
-  - course: PIPAC
+  - course: MSLS Library & Information Science
     institution: UNC Chapel Hill
     year: 1992
-  - course: HIPEC
+  - course: BA Sociology
     institution: UNC Greensboro
     year: 1990
 email: ""
 highlight_name: true
-
 interests:
 - Über [Kontakt](#contact)
 organizations:

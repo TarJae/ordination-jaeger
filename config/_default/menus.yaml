@@ -32,7 +32,7 @@ main:
   #   url: '#experience'
   #   weight: 50
   - name: Home
-    url: \
+    url: '#about'
     weight: 10
   - name: Leistungen
     url: '#skills'
