@@ -32,7 +32,7 @@ address:
 coordinates:
   latitude: '47.80700'
   longitude: '13.03548'
-directions: 4 Gehminuten von Parkplatz - Müllner Bräu
+directions: 4 Gehminuten vom Parkplatz Müllner Bräu
 Ordinationszeiten:
   - 'Mittwoch 16:00 - 20:00'
 appointment_url: 'https://calendly.com/event_types/user/me'
