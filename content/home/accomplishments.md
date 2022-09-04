@@ -29,7 +29,7 @@ item:
   date_start: "2017-11-20"
   description: "Applicability of American Joint Committee on Cancer and College of American Pathologists Regression Grading System in Rectal Cancer"
   organization: Sanofi
-  organization_url: https://www.coursera.org
+  organization_url: #https://www.coursera.org
   title: Sanofi Forschungspreis 
   url: "https://links.lww.com/DCR/A320"
 # - certificate_url: https://salk.at/16144.html

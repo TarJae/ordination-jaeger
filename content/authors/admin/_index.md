@@ -2,12 +2,12 @@
 bio: 
 education:
   courses:
-  - course: MSLS Library & Information Science
-    institution: UNC Chapel Hill
-    year: 1992
-  - course: BA Sociology
-    institution: UNC Greensboro
-    year: 1990
+  - course: PIPAC
+    institution: Pressurized Intraperitoneal Aerosol Chemotherapy)
+   # year: 1992
+  - course: HIPEC
+    institution: Hypertherme Intraperitoneale Chemotherapie
+   # year: 1990
 email: ""
 highlight_name: true
 interests:
