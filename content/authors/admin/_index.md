@@ -3,10 +3,13 @@ bio:
 education:
   courses:
   - course: PIPAC
-    institution: Pressurized Intraperitoneal Aerosol Chemotherapy)
+    institution: Pressurized Intraperitoneal Aerosol Chemotherapy
    # year: 1992
   - course: HIPEC
     institution: Hypertherme Intraperitoneale Chemotherapie
+   # year: 1990
+  - course: Darmkrebs
+    institution: Beratung
    # year: 1990
 email: ""
 highlight_name: true
