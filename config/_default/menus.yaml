@@ -31,6 +31,9 @@ main:
   # - name: Erfahrung
   #   url: '#experience'
   #   weight: 50
+  - name: Home
+    url: '#about'
+    weight: 10
   - name: Leistungen
     url: '#skills'
     weight: 20
