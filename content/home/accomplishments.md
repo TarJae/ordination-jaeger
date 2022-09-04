@@ -31,7 +31,7 @@ item:
   organization: Sanofi
   organization_url: https://www.coursera.org
   title: Sanofi Forschungspreis 
-  url: ""
+  url: "https://links.lww.com/DCR/A320"
 # - certificate_url: https://salk.at/16144.html
 #   date_end: ""
 #   date_start: "2021-01-01"
