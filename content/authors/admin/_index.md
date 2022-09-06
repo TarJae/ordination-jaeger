@@ -1,5 +1,4 @@
 ---
-bio: 
 education:
   courses:
   - course: PIPAC
@@ -41,7 +40,6 @@ social:
 superuser: true
 title: Priv.-Doz. Dr. Tarkan Jäger
 ---
-
 Als leitender Oberarzt an der [**Universtitätsklinik für Allgemein-, Viszeral- und Thoraxchirurgie**](//salk.at/16002.html) behandle ich hauptsächlich PatientInnen mit Krebserkrankungen des Bauchraumes. Dabei kommen neben den klassischen offenen Resektionsmethoden, minimalinvasive (laparoskopisch, roboterassitiert) Verfahren zur Anwendung.
 
 Über meine Wahlarztordination biete ich im Wesentlichen eine konsiliarische Beratung und Begutachtung an. Hauptfokus liegt dabei in der klaren zusammenfassenden Analyse der bestehenden Situation und einer entsprechenden weiteren Therapieempfehlung.
