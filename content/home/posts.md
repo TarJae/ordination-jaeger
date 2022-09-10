@@ -1,5 +1,5 @@
 ---
-active: false # Activate this widget? true/false
+active: true # Activate this widget? true/false
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
@@ -8,7 +8,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 120
+weight: 35
 
 title: Recent Posts
 subtitle:

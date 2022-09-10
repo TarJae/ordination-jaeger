@@ -1,0 +1,22 @@
+---
+title: 'Pipac in Österreich'
+author: ''
+date: '2022-09-10'
+slug: pipac-in-oesterreich
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-09-10T20:46:28+02:00'
+featured: no
+image:
+  caption: '© [**tarkan jäger**](https://jaeger-ordination.com)'
+  focal_point: 'blabla'
+  placement: 2
+  preview_only: no
+projects: []
+---
+
+Am 17.11.2017 erfolgte die erste PIPAC (Pressurized intraperitoneal aerosol chemotherapy) in Österreich an der Universtitätsklinik für Chirurgie Salzburg. Hier eine Übersicht über die Anzahl der durchgeführten Pipac Prozeduren bei PatientInnen mit peritonealer Metastasierung (Bauchfellkrebs) nach Bundesländern (Stand 06/2022). 
+

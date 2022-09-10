@@ -34,6 +34,22 @@
   }
 }*/
 
+
+
+/*page width overall*/
+.container {
+    max-width: 60%;
+}
+
+
+/*page width for posts
+section#posts div.container{
+max-width:90%;
+}
+*/
+
+/*animation start*/
+
 @keyframes slide-from-right {
   0% {
     transform: translateX(150%);
@@ -86,3 +102,5 @@
   animation: fade-in 1s forwards;
   animation-delay: 1.5s;
 }
+
+/*animation end*/
