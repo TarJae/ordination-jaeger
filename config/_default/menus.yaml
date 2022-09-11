@@ -22,9 +22,9 @@ main:
   # - name: Publikationen
   #   url: '#publications'
   #   weight: 20
-  # - name: Praxis
-  #   url: '#workshops'
-  #   weight: 10
+  - name: Praxis
+    url: '#workshops'
+    weight: 5
   # - name: Erfahrung
   #   url: '#experience'
   #   weight: 50
