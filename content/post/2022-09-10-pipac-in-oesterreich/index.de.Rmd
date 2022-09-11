@@ -4,7 +4,8 @@ author: ''
 date: '2022-09-10'
 slug: pipac-in-oesterreich
 categories: []
-tags: []
+tags: 
+  - Pipac
 subtitle: ''
 summary: ''
 authors: []
@@ -12,7 +13,7 @@ lastmod: '2022-09-10T20:46:28+02:00'
 featured: no
 image:
   caption: '© [**tarkan jäger**](https://jaeger-ordination.com)'
-  focal_point: 'blabla'
+  focal_point: ''
   placement: 2
   preview_only: no
 projects: []
