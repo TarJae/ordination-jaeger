@@ -24,7 +24,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/Tarkan_Jaeger
 location: Wowchemy HQ
 projects:
 - internal-project
