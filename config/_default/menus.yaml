@@ -10,7 +10,7 @@ main:
   # - name: Projects
   #   url: '#projects'
   #   weight: 30
-  - name: Vorträge
+  - name: Talks
     url: '#talks'
     weight: 34
   # - name: Presentations
