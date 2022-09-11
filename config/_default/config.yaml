@@ -74,3 +74,8 @@ related:
       weight: 70
 security:
   _merge: deep
+
+cascade:
+  - _target:
+      path: /post/**
+    share: false
