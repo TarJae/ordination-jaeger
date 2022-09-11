@@ -1,4 +1,4 @@
-+++
+---
 date = "2017-01-01T00:00:00"
 title = "Example Talk"
 abstract = ""
@@ -19,6 +19,6 @@ url_video = ""
 image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 
-+++
+---
 
 Embed your slides or video here using [shortcodes](ht
