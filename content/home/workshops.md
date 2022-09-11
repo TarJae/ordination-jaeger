@@ -10,14 +10,14 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 5
+weight: 15
 
 title: Privatordination
 subtitle: 
-  Erkrankungen des Gastrointestinaltraktes 
+  Erkrankungsbilder
     <UL>
       <li>Colitis ulcerosa und Morbus Crohn
-      <li>Sigmaviertikulitis
+      <li>Sigmadivertikulitis
       <li>Kolon- u. Rektumkarzinom
       <li>Peritoneale Metastasierung
       <li>Der metastasierte Patient
