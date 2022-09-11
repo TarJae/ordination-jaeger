@@ -12,7 +12,7 @@ title: Slides
 
 # Create slides in Markdown with Wowchemy
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
+[Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
 
 ---
 
