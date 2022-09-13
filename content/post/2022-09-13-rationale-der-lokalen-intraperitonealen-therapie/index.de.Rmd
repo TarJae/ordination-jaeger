@@ -1,0 +1,51 @@
+---
+title: Rationale der lokalen intraperitonealen Therapie
+author: ''
+date: '2022-09-13'
+slug: rationale-der-lokalen-intraperitonealen-therapie
+categories:
+  - Peritonealkarzinose
+tags:
+  - Pipac
+  - hipec
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-09-13T22:34:20+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Eine grundlegende Voraussetzung für die effektive Therapie von Bauchfellkrebserkrankungen ist das suffiziente Eindringen des Wirkstoffes in das erkrankte Gewebe. Nur in einer entsprechend wirksamen Konzentration können die Krebszellen durch den Wirkstoff gezielt therapiert werden.
+
+Die lokale Verabreichung von Chemotherapeutika im intraperitonealen Raum wird durch zahlreiche präklinische und pharmakologische Daten unterstützt und hat im Vergleich zur intravenösen Therapie den Vorteil einer deutlich höheren Konzentration des Chemotherapeutikums lokal am Bauchfell und der gleichzeitigen geringen systemischen Toxizität (Ceelen & Flessner, 2009; Solass, Struller et al., 2016).
+
+Dies ist durch anatomische Besonderheiten des Peritoneums begründet:
+
+1.  Der Anteil des portalvenösen Blutflusses durch das Peritoneum ist mit 7% (2% parietales, 3% viszerales Peritoneum und 2% Omentum majus) im Vergleich zu anderen intraabdominellen Organen sehr gering (Abb. 3) (Solass, Horvath et al., 2016). Damit ist ein intravenös applizierter Wirkstoff nur begrenzt für Tumore am Peritoneum geeignet. Im Gegensatz dazu sind Tumore in allen anderen intra-abdominellen Organen (Bsp.: Leber) durch den hohen Anteil am portalvenösen Fluss wesentlich besser für eine intravenöse Chemotherapie geeignet.
+
+    ![Abb. 1: Anteil des portalvenösen Blutflusses durch das Peritoneum. 7% des portalvenösen Blutes fließen durch das Peritoneum. Im Vergleich dazu haben andere Organe des Bauchraumes einen wesentlich höheren Anteil am portalvenösen Blutfluss. Mit freundlicher Genehmigung Marc Reymond. Quelle: (Solass, Horvath et al., 2016).](images/paste-9CE58A68.png){width="533"}
+
+2.  Das Peritoneum ist als eine semi-permeable Membran nur für Wasser, kleinere Lösungsbestanteile und Proteine durchlässig. Die physiologische Barriere besteht aus fünf Schichten und wird dabei durch die Endothelzellen der Kapillaren, der Endothelzell-Basalmembran, dem interstitiellen Raum, der Mesothelzell-Basalmembran und den Mesothelzellen selbst gebildet (Solass, Horvath et al., 2016). Daneben behindern die extrazelluläre Glykokalix sowie anionische Ladungen die Passage von großen Proteinen (wie zum Bsp.: Albumin). Im interstitiellen Raum wirken Kollagen und Hyaluronsäure der Diffusion von Makromolekülen entgegen.
+
+Alle diese genannten Faktoren bilden die Peritoneum-Plasma Barriere (Jacquet & Sugarbaker, 1996). Es gibt drei Hauptkategorien von Parametern, die für den Transport des Wirkstoffes bei der intraperitonealen Chemotherapie wichtig sind (Abb. 4) (Steuperaert, Debbaut, Segers, & Ceelen, 2017):
+
+1.  **Therapiebezogene Parameter** (Dosis, Temperatur der Trägerlösung, Volumen der Trägerlösung, der intraabdominelle Druck, vasoaktive Substanzen, Einsatz von Surfactant und die Dauer der Applikation).
+
+2.  **Parameter die sich auf den Wirkstoff beziehen** (Molekulares Gewicht, Ionenla-dung, Membranbindung, Löslichkeit und Diffusivität).
+
+3.  **Tumorgewebebezogene Kriterien** (Permeabilität, Gefäßversorgung, interstitieller Flüssigkeitsdruck, Zelldichte und die Beschaffenheit der extrazellulären Matrix).
+
+    ![Abb. 2: Schematische Darstellung des Chemotherapie-Transportes während der intraperitonealen Chemotherapie mit wichtigen determinierenden Faktoren. IFP = Interstitieller Flüssigkeits-druck, ECM = Extrazelluläre Matrix, MW = Molekulargewicht. Mit freundlicher Genehmigung Marc Reymond. Quelle: (Steuperaert et al., 2017).](images/paste-B43443A9.png)
+
+Bis zur Entwicklung der PIPAC Methode wurden intraperitoneale Chemotherapien aufgrund der oben genannten Vorteile in flüssiger normothermer oder hyperthermer Form lokal intraperitoneal angewandt.
+
+Limitationen dieser flüssigen intraperitonealen Chemotherapie liegen zum einen in der nicht adäquaten Wirkstoffverteilung im gesamten Bauchraum, des limitierten Eindringens in Tumorgewebe sowie weiteren Mechanismen wie dem „Escape-Mechanismus" bei dem aufgrund des geringen Transportes des Wirkstoffes zum Tumor durch den Kapillarfluss ein „Escape" in die systemische Zirkulation erfolgt (Markman, 2003).
+
+Eine Flüssigkeit dehnt sich nicht aus und fließt entlang des Weges mit dem geringsten Widerstand.
+
+Bei der PIPAC werden diese Limitationen durch die Insufflation eines therapeutischen Aerosols überwunden. Zu den physikalischen Prinzipien gehören eine homogene Verteilung ähnlich eines idealen Gases in einem geschlossenen Raum. Durch die wiederholte Anwendung alle 6 Wochen kann der Therapieerfolg histomorphologisch mit der Klassifizierung der Tumorregression objektiviert werden (Solass et al., 2019).
