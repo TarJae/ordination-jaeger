@@ -19,8 +19,6 @@ image:
 projects: []
 ---
 
-# Pressurized IntraPeritoneal Aerosol Chemotherapy (PIPAC)
-
 Die PIPAC ist ein Wirkstoffapplikationstool („Drug delivery system") und kann bei PatientInnen mit fortgeschrittenen peritonealen und pleuralen Malignomen angewendet werden.\
 Durch die lokale Applikation des Chemotherapeutikums kommt es zu höheren Konzentrationen im Tumor bei gleichzeitiger geringer systemischer Toxizität. Die PIPAC wird laparoskopisch durchgeführt. Das normotherme Chemotherapeutikum wird in Aerosolform unter 12 mmHg intraperitonealem Druck über einen Trokar appliziert. Dabei wird eine homogene Verteilung des Chemotherapeutikums und ein tieferes Eindringen ins Gewebe erreicht.
 

@@ -1,11 +1,12 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: http://example.org
+date: "2022-09-13T00:00:00Z"
+external_link: https://taja.shinyapps.io/PESUCA_ISSPP/
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: '© [**tarkan jäger**](https://jaeger-ordination.com)'
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Peritoneal surface calculator (Peritonealobeflächenberechner) website using `https://taja.shinyapps.io/PESUCA_ISSPP/`. In Salzburg an der Universitätsklinik für Chirurgie entwickelt. 
 tags:
-- Demo
-title: External Project
+- PESUCA
+- SAPESUCA
+title: Peritoneal surface calculator
 ---
