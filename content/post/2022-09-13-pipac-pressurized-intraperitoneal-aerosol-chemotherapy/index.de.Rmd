@@ -34,7 +34,7 @@ Daraufhin wird das Chemotherapeutikum aus der flüssigen Form in die Aerosolform
 
 Unter einem konstanten Druck von 12 mmHg kommt es neben einer homogenen Verteilung des als Aerosol vernebelten Chemotherapeutikums in der Bauchhöhle zu einer über den Druckgradienten beeinflussten besseren Diffusion des Chemotherapeutikums in das Gewebe (Abb. 2) (M. A. Reymond et al., 2000, 2000; Solass et al., 2014).
 
-![Schematische Darstellung der PIPAC Anwendung. Zuerst wird über zwei Ballon-Trokare ein 12 mmHg Kapnoperitoneum angelegt. Dann wird der Vernebler (CapnoPen©) [in der Skizze noch 1. Generation (Micropump©) dargestellt] eingeführt und mit einem Hochdruck- injektor verbunden. Daraufhin wird das Chemotherapeutikum aus der flüssigen Form in die Aerosolform aerosolisiert. Das dichte System wird für 30 Minuten im Steady State gehalten. Am Ende wird das toxische Aerosol über ein geschlossenes System entsorgt. Die Prozedur erfolgt unter Schutz eines laminären Airflows und wird ferngesteuert. Mit freundlicher Genehmigung Marc Reymond. Quelle: (Solass et al., 2014).](featured.jpg)
+![Abb. 1: Schematische Darstellung der PIPAC Anwendung. Zuerst wird über zwei Ballon-Trokare ein 12 mmHg Kapnoperitoneum angelegt. Dann wird der Vernebler (CapnoPen©) [in der Skizze noch 1. Generation (Micropump©) dargestellt] eingeführt und mit einem Hochdruck- injektor verbunden. Daraufhin wird das Chemotherapeutikum aus der flüssigen Form in die Aerosolform aerosolisiert. Das dichte System wird für 30 Minuten im Steady State gehalten. Am Ende wird das toxische Aerosol über ein geschlossenes System entsorgt. Die Prozedur erfolgt unter Schutz eines laminären Airflows und wird ferngesteuert. Mit freundlicher Genehmigung Marc Reymond. Quelle: (Solass et al., 2014).](featured.jpg)
 
 ### Aerosol
 
@@ -58,7 +58,7 @@ Im Gegensatz zu den mittels eines Treibgases verwendeten Inhalatoren, die im Atm
 
 Sämtliche nicht resektable peritoneale Malignome (primär und sekundär) kommen als Indikation in Frage. In einer 2017 publizierten systematischen Übersichtsarbeit wurden folgende Entitäten als Indikation beschrieben (Grass et al., 2017):
 
-1.   Primäre peritoneale Malignome: Malignes peritoneales Mesotheliom, primäres peritoneales Karzinom und Pseudomyxoma peritonei.
+1.  Primäre peritoneale Malignome: Malignes peritoneales Mesotheliom, primäres peritoneales Karzinom und Pseudomyxoma peritonei.
 
 2.  Sekundäre peritoneale Malignome: Peritoneal metastasiertes Magen-, Ovarial-, Appendix-, Tuben-, Kolorektal-, Zervix-, Endometrium- und Mammakarzinom.
 
