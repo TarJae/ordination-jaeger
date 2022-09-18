@@ -32,9 +32,9 @@ main:
   - name: Science Breakfast
     url: '#sciencebreakfasts'
     weight: 21 
-  # - name: Science Breakfast
-  #   url: '#publications'
-  #   weight: 21    
+  - name: Publications
+    url: '#publications'
+    weight: 21
   - name: Kontakt
     url: '#contact'
     weight: 30

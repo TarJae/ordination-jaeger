@@ -3,15 +3,13 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
-active: true
-
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 25
+weight: 22
 
-title: Science Breakfast
+title: Publications
 subtitle: ''
 
 content:
