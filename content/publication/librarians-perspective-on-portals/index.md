@@ -19,7 +19,7 @@ publication: '*Science Breakfast, 1*(1)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2022-09-18T00:00:00Z"
+publishDate: "2022-09-16T00:00:00Z"
 slides: 
 summary: 92% PLSVC flowing into the coronary sinus (Figure 1 and 2). 25% Existence of an „innominate vein” between PLSVC and right superior vena cava. 8% PLSVC flowing into the left atrium. 0.1% PLSVC with absent right superior vena cava. 
 tags:
