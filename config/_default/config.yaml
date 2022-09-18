@@ -82,3 +82,6 @@ cascade:
   - _target:
       path: /event/**
     share: false
+  - _target:
+      path: /publication/**
+    share: false

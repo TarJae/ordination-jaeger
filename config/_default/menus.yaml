@@ -7,9 +7,7 @@ main:
   # - name: Demo
   #   url: '#about'
   #   weight: 10
-  - name: Projects
-    url: '#projects'
-    weight: 55
+
   # - name: Talks
   #   url: '#talks'
   #   weight: 34
@@ -19,21 +17,21 @@ main:
   # - name: Courses
   #   url: courses/
   #   weight: 60
-  # - name: Publikationen
-  #   url: '#publications'
-  #   weight: 20
-  - name: Praxis
-    url: '#workshops'
-    weight: 5
   # - name: Erfahrung
   #   url: '#experience'
   #   weight: 50
+  - name: Praxis
+    url: '#workshops'
+    weight: 5
   - name: Home
     url: '#about'
     weight: 10
   - name: Leistungen
     url: '#skills'
     weight: 20
+  - name: Science Breakfast
+    url: '#publications'
+    weight: 21    
   - name: Kontakt
     url: '#contact'
     weight: 30
@@ -46,3 +44,6 @@ main:
   - name: Auszeichnungen
     url: '#accomplishments'
     weight: 50
+  - name: Projects
+    url: '#projects'
+    weight: 55
