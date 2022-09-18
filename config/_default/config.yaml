@@ -83,5 +83,5 @@ cascade:
       path: /event/**
     share: false
   - _target:
-      path: /publication/**
+      path: /sciencebreakfast/**
     share: false
