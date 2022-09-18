@@ -25,7 +25,7 @@ abstract: "92% PLSVC flowing into the coronary sinus (Figure 1 and 2). 25% Exist
 summary: ""
 
 tags: [persistent left superior vena cava, science breakfast]
-categories: [resource discovery]
+categories: [Science Breakfast]
 featured: false
 
 # Custom links (optional).
