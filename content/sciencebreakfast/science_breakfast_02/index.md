@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Persistierende linke Vena cava superior"
+title: "Irreversible Elektroporation - Nanoknife©"
 authors: [admin]
 date: 2022-09-18T00:00:00Z
 doi: ""
@@ -19,12 +19,13 @@ publication_types: ["4"]
 publication: "Science Breakfast"
 publication_short: ""
 
-abstract: "92% PLSVC flowing into the coronary sinus (Figure 1 and 2). 25% Existence of an „innominate vein” between PLSVC and right superior vena cava. 8% PLSVC flowing into the left atrium. 0.1% PLSVC with absent right superior vena cava."
+abstract: "IRE is a feasible method for the treatment of liver tumors in cases where traditional methods are unavailable.
+Efficacy has been proven particularly in tumors with close proximity to vital structures (vessels, major biliary and hepatic structures) where thermal methods of ablation would cause significant complications."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [persistent left superior vena cava, science breakfast]
+tags: [nanoknife, electroporation, science breakfast, Lebermetastase, Dickdarmkrebs]
 categories: [Science Breakfast]
 featured: false
 
@@ -36,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "uploads/Publikation1_persistent_left_vena_cava.pdf"
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:
@@ -49,7 +50,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "©tarkan jäger"
+  caption: ""
   focal_point: ""
   preview_only: true
 
@@ -68,28 +69,22 @@ projects: []
 slides: ""
 ---
 
-![Abb. 1:](figure_PLSVC.jpg)
-
-### Vorkommen:
-
--   92% der persistierenden linken Vena cava superiorer (PLSVC) fließen in den Sinus coronarius (Abb. 1 und 2).
-
--   In 25% besteht eine sogenannte „innominate vein" zwischen PLSVC und der rechten V. cava superior.
-
--   8% der PLSVC fließen direkt in den linken Vorhof.
-
--   Ganz selten (0.1%) besteht eine PLSVC mit Fehlen der rechten V. cava superior.
+![](images/paste-8C194EAD.png)
 
 ### Fakten:
 
--   Prävalenz: 0.5% in der Normalbevölkerung & 4% bei Patient/Innen mit angeborenen Herzfehlbildungen.
+-   Durch schnelle elektrische Impulse werden die Zellmembranen der Krebszellen geöffnet und durch die Hochspannung der Zelltod der Krebszellen bewirkt.
 
--   Die linke V. cava superior entsteht in der 7. Schwangerschaftswoche und ist normalerweise bei der Geburt obliteriert.
+-   Die irreversible Elektroporation (IRE) kommt bei der Behandlung von Lebertumoren (max. Größe 6 cm) dann zum Einsatz, wenn klassische Therapieoptionen (chirurgische Resektion) nicht angewendet werden können.
+
+-   Vor allem bei Tumoren in der Nähe von Gefäßen kann eine Wirkung nachgewiesen werden. Die thermische Ablation von diesen Tumoren würde zu erhöhten Komplikationen bei unzureichender Tumordestruktion (Kühleffekt) führen.
+
+-   Während der IRE können Blutgefässe und Gallengänge besser geschont werden.
 
 ### Relevanz:
 
--   Eine PLSVC kann bei Interventionen (ZVK, Portimplantation) eine technische Herausforderung darstellen.
+-   In der Studie von Stroszczynski und Wiggermann\[1\] konnte bei 71 Patienten (nicht resektables HCC und nicht resektable kolorektale Karzinommetastasen) innerhalb eines Nachbeobachtungszeitraum von fünf Jahren gezeigt werden, dass die Patienten im Schnitt länger als zwei Jahre überlebten.
 
 ### Referenz:
 
-1.  Biffi, M.; Boriani, G.; Frabetti,L.; et al. Left superior vena cava persistence in patients undergoing pacemaker or cardio-verter-defibrillator implantation: a 10-year experience. Chest. 2001 Jul;120(1):139-44.
+1.  Niessen C, Thumann S, Beyer L, et al. Percutaneous irreversible electroporation: long-term survival analysis of 71 patients with inoperable malignant hepatic tumors. Sci Rep \[Internet\]. 2017;7.
