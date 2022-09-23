@@ -32,7 +32,7 @@ item:
   organization_url: #https://www.coursera.org
   title: Sanofi Forschungspreis 
   url: "https://links.lww.com/DCR/A320"
-# - certificate_url: https://salk.at/16144.html
+# - certificate_url: 
 #   date_end: ""
 #   date_start: "2021-01-01"
 #   description: Formulated informed blockchain models, hypotheses, and use cases.
