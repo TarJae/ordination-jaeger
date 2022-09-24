@@ -21,3 +21,6 @@ options(
 
 # fix Hugo version
 options(blogdown.hugo.version = "0.96.0")
+
+# load blogdown
+library(blogdown)

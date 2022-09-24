@@ -47,6 +47,9 @@ main:
   - name: Auszeichnungen
     url: '#accomplishments'
     weight: 50
-  - name: Projects
+  - name: Projekte
     url: '#projects'
     weight: 55
+  - name: Poster
+    url: '#posters'
+    weight: 60

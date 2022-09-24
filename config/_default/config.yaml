@@ -85,3 +85,6 @@ cascade:
   - _target:
       path: /sciencebreakfast/**
     share: false
+  - _target:
+      path: /poster/**
+    share: false
