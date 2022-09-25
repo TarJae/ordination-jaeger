@@ -38,7 +38,7 @@ design:
   background:
     image: logo_resized_cover_goldT_blued.png #logo_ordi2_plastik.png logo_ordi1_blau_T_weiss.png
     image_darken: 0.9
-    image_parallax: TRUE
+    image_parallax: true
     image_position: center
     image_size: cover
     text_color_light: true    # false
