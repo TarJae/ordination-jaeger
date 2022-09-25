@@ -6,6 +6,8 @@ slug: pipac-in-oesterreich
 categories: []
 tags: 
   - Pipac
+  - Bauchfellkrebs
+  - Peritonealkarzinose
 subtitle: ''
 summary: ''
 authors: []
@@ -23,4 +25,6 @@ projects: []
 
 ![Abb.2 PIPAC Patient/Innen in Salzburg nach Bundesland.](images/pipac_patienten_karte_crope.jpg)
 
-Am **17.11.2017** erfolgte die **erste PIPAC (Pressurized intraperitoneal aerosol chemotherapy) in Österreich** an der **Universtitätsklinik für Chirurgie Salzburg**. Seitdem sind in Salzburg über 180 PIPAC Prozeduren (Abb.1) bei 63 Patient/Innen (Abb. 2) durchgeführt worden. Hier eine Übersicht über die Zuweisung aus den Bundesländern (Stand 06/2022).
+[![](images/Artikel_PIPAC-01.jpg)](https://www.sn.at/panorama/wissen/krebstherapie-pipac-gibt-hoffnung-bei-bauchfellkrebs-125772010)
+
+Am **17.11.2017** erfolgte an der **Universtitätsklinik für Chirurgie Salzburg** die **erste PIPAC (Pressurized intraperitoneal aerosol chemotherapy) in Österreich**. Seitdem sind in Salzburg über 180 PIPAC Prozeduren (Abb.1) bei 63 Patient/Innen (Abb. 2) durchgeführt worden (Stand 06/2022).

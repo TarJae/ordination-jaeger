@@ -20,36 +20,36 @@ main:
   # - name: Erfahrung
   #   url: '#experience'
   #   weight: 50
-  - name: Praxis
-    url: '#workshops'
-    weight: 5
   - name: Home
     url: '#about'
-    weight: 10
+    weight: 5
   - name: Leistungen
     url: '#skills'
+    weight: 10
+  - name: Ordination
+    url: '#workshops'
     weight: 20
+  - name: Kontakt
+    url: '#contact'
+    weight: 25
   - name: Science Breakfast
     url: '#sciencebreakfasts'
-    weight: 21 
+    weight: 30 
   # - name: Publications
   #   url: '#publications'
   #   weight: 22
-  - name: Kontakt
-    url: '#contact'
-    weight: 30
   - name: Beiträge
     url: '#posts'
     weight: 35
-  - name: Galerie
-    url: '#gallery'
-    weight: 40
-  - name: Auszeichnungen
-    url: '#accomplishments'
-    weight: 50
   - name: Projekte
     url: '#projects'
-    weight: 55
+    weight: 40
   - name: Poster
     url: '#posters'
+    weight: 50
+  - name: Galerie
+    url: '#gallery'
+    weight: 55
+  - name: Auszeichnungen
+    url: '#accomplishments'
     weight: 60

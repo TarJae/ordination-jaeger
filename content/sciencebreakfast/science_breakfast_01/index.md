@@ -70,11 +70,7 @@ slides: ""
 
 ![Abb. 1:](figure_PLSVC.jpg)
 
-<<<<<<< HEAD
-### Vorkommen:
-=======
 ### Vorkommen
->>>>>>> e55178d7e68aa2e329780d2d8a4d8d8f018d5888
 
 -   92% der persistierenden linken Vena cava superiorer (PLSVC) fließen in den Sinus coronarius (Abb. 1 und 2).
 
@@ -84,28 +80,19 @@ slides: ""
 
 -   Ganz selten (0.1%) besteht eine PLSVC mit Fehlen der rechten V. cava superior.
 
-<<<<<<< HEAD
-### Fakten:
-=======
+
 ### Fakten
->>>>>>> e55178d7e68aa2e329780d2d8a4d8d8f018d5888
 
 -   Prävalenz: 0.5% in der Normalbevölkerung & 4% bei Patient/Innen mit angeborenen Herzfehlbildungen.
 
 -   Die linke V. cava superior entsteht in der 7. Schwangerschaftswoche und ist normalerweise bei der Geburt obliteriert.
 
-<<<<<<< HEAD
-### Relevanz:
-
 -   Eine PLSVC kann bei Interventionen (ZVK, Portimplantation) eine technische Herausforderung darstellen.
 
-### Referenz:
-=======
 ### Relevanz
 
 -   Eine PLSVC kann bei Interventionen (ZVK, Portimplantation) eine technische Herausforderung darstellen.
 
 ### Referenz
->>>>>>> e55178d7e68aa2e329780d2d8a4d8d8f018d5888
 
 1.  Biffi, M.; Boriani, G.; Frabetti,L.; et al. Left superior vena cava persistence in patients undergoing pacemaker or cardio-verter-defibrillator implantation: a 10-year experience. Chest. 2001 Jul;120(1):139-44.
