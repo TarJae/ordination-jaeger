@@ -1,5 +1,5 @@
 ---
-title: Wie hoch ist das Risiko der Peritonealkarzinose bei Darmkrebs?
+title: Das Risiko der Peritonealkarzinose bei Darmkrebs?
 author: ''
 date: '2022-09-15'
 slug: wie-hoch-ist-das-risiko-der-peritonealkarzinose-bei-darmkrebs
@@ -17,14 +17,11 @@ lastmod: '2022-09-15T22:12:37+02:00'
 featured: no
 image:
   caption: ''
-  focal_point: ''
-  preview_only: no
+  focal_point: Smart
+  placement: 2
+  preview_only: yes
 projects: []
 ---
-
-Das Risiko einer Peritonealkarzinose (besserer Begriff: einer [peritonealen Metastasierung (PM)]{style="color:red"} beim kolorektalen Karzinom (Darmkrebs) hängt von einigen Faktoren ab. Anhand des folgenden Beitrags sollen die unterschiedlichen Konstellationen bei der Entstehung einer peritonealen Metastasierung bei Darmkrebs veranschaulicht werden. Zusätzlich soll gezeigt werden, dass die Risikogruppe 10% beträgt und eine intensivere Behandlung benötigt ([Honoré et al. 2017](https://www.tandfonline.com/doi/pdf/10.1080/02656736.2017.1306119?needAccess=true)).
-
-### 
 
 ![Abb.1: Kurativ resezierte kolorektale Karzinome (KRK) UICC I-III entwickeln in 3-6% eine metachrone PM.](images/paste-DFBF9F54.png){width="465"}
 
@@ -35,3 +32,5 @@ Das Risiko einer Peritonealkarzinose (besserer Begriff: einer [peritonealen Meta
 ![Abb. 3: 1- 7% der Patientinnen haben eine Ovarmetastase. Nach R0-Resektion entwickeln diese bis zu 71% eine PM. Beim perforierten KRK beträgt das Risiko \~ 27%. Das heisst, dass ein Drittel der Patient/Innen mit einem perforierten Tumor nach einem Jahr eine PM entwickeln.](images/paste-4C955C32.png){width="461"}
 
 ![Abb. 4: Hier die entsprechenden Zahlen für pT4 Karzinome und muzinös/siegelringzell Karzinome.](images/paste-9F97CAA5.png){width="464"}
+
+Das Risiko einer Peritonealkarzinose (besserer Begriff: einer [peritonealen Metastasierung (PM)]{style="color:red"} beim kolorektalen Karzinom (Darmkrebs) hängt von einigen Faktoren ab. Anhand des folgenden Beitrags sollen die unterschiedlichen Konstellationen bei der Entstehung einer peritonealen Metastasierung bei Darmkrebs veranschaulicht werden. Zusätzlich soll gezeigt werden, dass die Risikogruppe 10% beträgt und eine intensivere Behandlung benötigt ([Honoré et al. 2017](https://www.tandfonline.com/doi/pdf/10.1080/02656736.2017.1306119?needAccess=true)).
