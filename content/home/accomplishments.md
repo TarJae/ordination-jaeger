@@ -11,7 +11,7 @@ headless: true
 weight: 28
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Auszeichnungen'
+title: 'Auszeichnung Zertifikat'
 subtitle:
 
 # Date format
@@ -24,30 +24,32 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://salk.at/16144.html
+- certificate_url: "uploads/UrkundeSanofiJaeger2232015.JPG"
   date_end: ""
   date_start: "2017-11-20"
   description: "Applicability of American Joint Committee on Cancer and College of American Pathologists Regression Grading System in Rectal Cancer"
   organization: Sanofi
   organization_url: #https://www.coursera.org
   title: Sanofi Forschungspreis 
-  url: "https://links.lww.com/DCR/A320"
-# - certificate_url: 
-#   date_end: ""
-#   date_start: "2021-01-01"
-#   description: Formulated informed blockchain models, hypotheses, and use cases.
-#   organization: edX
-#   organization_url: https://www.edx.org
-#   title: Blockchain Fundamentals
-#   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-# - certificate_url: https://www.datacamp.com
-#   date_end: "2020-12-21"
-#   date_start: "2020-07-01"
-#   description: ""
-#   organization: DataCamp
-#   organization_url: https://www.datacamp.com
-#   title: 'Object-Oriented Programming in R'
-#   url: ""
+  url: 
+  
+- certificate_url: 'uploads/wissenschaftspreis_silber.jpg'
+  date_end: ""
+  date_start: "2018-06-01"
+  description: Wissenschaftspreis in Silber PMU Salzburg
+  organization: Paracelsus Medizinische Privatuniversität
+  organization_url: https://www.pmu.ac.at/
+  title: Wissenschaftspreis 2017
+  url:
+
+- certificate_url: 'uploads/CertificatePIPAC2017.jpg'
+  date_end: ""
+  date_start: "2017-10-01"
+  description: "PIPAC Zertifikat"
+  organization: National Center for Pleura and Peritoneum, University Hospital Tübingen, Germany
+  organization_url: https://www.medizin.uni-tuebingen.de/en-de/das-klinikum/einrichtungen/zentren/tumorzentrum-ccc/national-center-for-pleura-and-peritoneum-ncpp
+  title: 'Pressurized IntraPeritoneal Aerosol Chemotherapy (PIPAC)'
+  url: ""
 
 design:
   columns: '2' 
