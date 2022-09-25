@@ -7,7 +7,6 @@ main:
   # - name: Demo
   #   url: '#about'
   #   weight: 10
-
   # - name: Talks
   #   url: '#talks'
   #   weight: 34
@@ -20,6 +19,9 @@ main:
   # - name: Erfahrung
   #   url: '#experience'
   #   weight: 50
+  # - name: Publications
+  #   url: '#publications'
+  #   weight: 22
   - name: Home
     url: '#about'
     weight: 5
@@ -32,21 +34,24 @@ main:
   - name: Kontakt
     url: '#contact'
     weight: 25
-  - name: Science Breakfast
-    url: '#sciencebreakfasts'
-    weight: 30 
-  # - name: Publications
-  #   url: '#publications'
-  #   weight: 22
-  - name: Beiträge
+  - name: Blog
     url: '#posts'
-    weight: 35
+    weight: 26
+  - name: Medizin
+    identifier: medizin
+    weight: 61
+  - name: Science Breakfast
+    parent: medizin
+    url: '#sciencebreakfasts'
+    weight: 10 
   - name: Projekte
+    parent: medizin
     url: '#projects'
-    weight: 40
+    weight: 20
   - name: Poster
+    parent: medizin
     url: '#posters'
-    weight: 50
+    weight: 30
   - name: Galerie
     url: '#gallery'
     weight: 55
