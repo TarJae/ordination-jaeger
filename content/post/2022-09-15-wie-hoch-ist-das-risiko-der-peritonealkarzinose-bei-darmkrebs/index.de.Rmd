@@ -14,11 +14,10 @@ subtitle: ''
 summary: ''
 authors: []
 lastmod: '2022-09-15T22:12:37+02:00'
-featured: no
+featured: yes
 image:
   caption: ''
-  focal_point: Smart
-  placement: 2
+  focal_point: []
   preview_only: yes
 projects: []
 ---
