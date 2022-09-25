@@ -37,9 +37,15 @@ main:
   - name: Blog
     url: '#posts'
     weight: 26
+  - name: Galerie
+    url: '#gallery'
+    weight: 27
+  - name: Auszeichnung Zertifikat
+    url: '#accomplishments'
+    weight: 28
   - name: Medizin
     identifier: medizin
-    weight: 61
+    weight: 30
   - name: Science Breakfast
     parent: medizin
     url: '#sciencebreakfasts'
@@ -52,9 +58,3 @@ main:
     parent: medizin
     url: '#posters'
     weight: 30
-  - name: Galerie
-    url: '#gallery'
-    weight: 55
-  - name: Auszeichnungen
-    url: '#accomplishments'
-    weight: 60
