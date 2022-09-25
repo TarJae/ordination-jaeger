@@ -20,11 +20,11 @@ knitr::opts_chunk$set(
 
 ## Tools
 
-Website composed via [Blogdown](https://pkgs.rstudio.com/blogdown/) ([Summary](https://www.rstudio.com/blog/blogdown-v1.0/) | [Documentation](https://pkgs.rstudio.com/blogdown/))
+<!-- Website composed via [Blogdown](https://pkgs.rstudio.com/blogdown/) ([Summary](https://www.rstudio.com/blog/blogdown-v1.0/) | [Documentation](https://pkgs.rstudio.com/blogdown/)) -->
 
-Web theme is [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) ([Documentation](https://wowchemy.com/docs/getting-started/customization/))
+<!-- Web theme is [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) ([Documentation](https://wowchemy.com/docs/getting-started/customization/)) -->
 
-Web hosting via [Netlify](https://www.netlify.com/) ([Documentation](https://bookdown.org/yihui/blogdown/netlify.html))
+<!-- Web hosting via [Netlify](https://www.netlify.com/) ([Documentation](https://bookdown.org/yihui/blogdown/netlify.html)) -->
 
 
 ## Edit content
@@ -34,7 +34,7 @@ Additional good places to look include
 
 - `congig/_default`
 - `assets/media`
-- `laouts/partials`
+- `layouts/partials`
 
 ## Hints
 

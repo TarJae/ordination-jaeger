@@ -12,16 +12,9 @@ Status](https://api.netlify.com/api/v1/badges/e278b076-1ffe-4e77-9d33-9cca90618d
 
 ## Tools
 
-Website composed via [Blogdown](https://pkgs.rstudio.com/blogdown/)
-([Summary](https://www.rstudio.com/blog/blogdown-v1.0/) \|
-[Documentation](https://pkgs.rstudio.com/blogdown/))
-
-Web theme is
-[wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic)
-([Documentation](https://wowchemy.com/docs/getting-started/customization/))
-
-Web hosting via [Netlify](https://www.netlify.com/)
-([Documentation](https://bookdown.org/yihui/blogdown/netlify.html))
+<!-- Website composed via [Blogdown](https://pkgs.rstudio.com/blogdown/) ([Summary](https://www.rstudio.com/blog/blogdown-v1.0/) | [Documentation](https://pkgs.rstudio.com/blogdown/)) -->
+<!-- Web theme is [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) ([Documentation](https://wowchemy.com/docs/getting-started/customization/)) -->
+<!-- Web hosting via [Netlify](https://www.netlify.com/) ([Documentation](https://bookdown.org/yihui/blogdown/netlify.html)) -->
 
 ## Edit content
 
@@ -30,7 +23,7 @@ directory Additional good places to look include
 
 -   `congig/_default`
 -   `assets/media`
--   `laouts/partials`
+-   `layouts/partials`
 
 ## Hints
 
@@ -47,8 +40,3 @@ Start a new Publication
 4.  Using that output, in the Terminal CLI, call Hugo …
     <br>`hugo new content/publication/<my-publication>`
     ([Documentation](https://wowchemy.com/docs/content/publications/#command-line))
-
-## Connection test with rstudio cloud
-
-Hello
-Hello again
