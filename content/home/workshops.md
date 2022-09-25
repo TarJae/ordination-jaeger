@@ -16,15 +16,15 @@ weight: 20
 
 title: Privatordination
 subtitle: 
-  Erkrankungsbilder
+  <span style="color:red">Erkrankungsbilder</span> 
     <UL>
-      <li>Colitis ulcerosa und Morbus Crohn
-      <li>Sigmadivertikulitis
+      <li>Tumorerkrankungen im Bauchraum
       <li>Kolon- u. Rektumkarzinom
-      <li>Peritoneale Metastasierung
-      <li>Der metastasierte Patient
-      <li>Fortgeschrittene Tumore 
-      <li>...
+      <li>Peritoneale Metastasierung (Peritonealkarzinose)
+      <li>Minimal-invasive Chirurgie
+      <li>Roboterassitierte Operationen
+      <li>Entzündliche Erkrankungen des Darms (Morbus Crohn, Colitis ulcerosa, Divertikulitis)
+      <li>Erkrankungen des Enddarms (z.B. Hämorrhoiden, Fisteln, Fissuren)
     </UL>
   
 design:
@@ -36,13 +36,11 @@ design:
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   background:
-    image: logo_resized_cover_goldT.png
-  #  image: #logo_ordi2_plastik.png 
-#   image: logo_ordi1_blau_T_weiss.png    # hex_top_rfun_logo.png | 
-    image_darken: 0.7      # 1.0 | 0.2
-    image_parallax: true
+    image: logo_resized_cover_goldT_blued.png #logo_ordi2_plastik.png logo_ordi1_blau_T_weiss.png
+    image_darken: 0.9
+    image_parallax: TRUE
     image_position: center
-    image_size: contain
+    image_size: cover
     text_color_light: true    # false
   spacing:
     padding: ["20px", "0", "20px", "0"]
