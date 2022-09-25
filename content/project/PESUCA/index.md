@@ -1,6 +1,6 @@
 ---
 date: "2022-09-13T00:00:00Z"
-external_link: https://taja.shinyapps.io/PESUCA_ISSPP/
+#external_link: https://taja.shinyapps.io/PESUCA_ISSPP/
 image:
   caption: '© [**tarkan jäger**](https://jaeger-ordination.com)'
   focal_point: Smart

@@ -89,3 +89,6 @@ cascade:
   - _target:
       path: /poster/**
     share: false
+  - _target:
+      path: /project/**
+    share: false
