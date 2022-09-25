@@ -33,7 +33,11 @@ item:
   title: Sanofi Forschungspreis 
   url: 
   
+<<<<<<< HEAD
 - certificate_url: 'uploads/wissenschaftspreis_silber.jpg'
+=======
+- certificate_url: 'uploads/wissenschaftspreis_silber.png'
+>>>>>>> 93f3229cab8d5fed5a8be988ab087768776fe71d
   date_end: ""
   date_start: "2018-06-01"
   description: Wissenschaftspreis in Silber PMU Salzburg
@@ -42,7 +46,11 @@ item:
   title: Wissenschaftspreis 2017
   url:
 
+<<<<<<< HEAD
 - certificate_url: 'uploads/CertificatePIPAC2017.jpg'
+=======
+- certificate_url: 'uploads/Certificate PIPAC.png'
+>>>>>>> 93f3229cab8d5fed5a8be988ab087768776fe71d
   date_end: ""
   date_start: "2017-10-01"
   description: "PIPAC Zertifikat"
