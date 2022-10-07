@@ -10,7 +10,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 27
+weight: 41
 
 title: Galerie
 subtitle:
@@ -43,10 +43,12 @@ gallery_item:
    caption: Logo Ordination
 ---
 
-{{< gallery album="themes" >}}
+{{< gallery album="themes" resize_options="150x185"  >}}
 
-<!--- by me a coffee --->
+<!--- by me a coffee 
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="tarkanjaeger" data-description="Support me on Buy me a coffee!" data-message="Gemeinsam gegen Krebs!" data-color="#FFDD00" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+--->
+
 
 <!--- 
 {{< gallery album="themes" resize_options="350x350" >}}

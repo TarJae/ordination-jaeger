@@ -1,0 +1,33 @@
+---
+title: Peritonealkarzinose bei Darmkrebs
+author: ''
+date: '2022-09-26'
+slug: peritonealkarzinose-bei-darmkrebs
+categories:
+  - Kolorektales Karzinom
+  - Peritonealkarzinose
+tags:
+  - Darmkrebs
+  - Peritonealkarzinose
+  - Kolorektales Karzinom
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-09-26T19:21:14+02:00'
+featured: yes
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: yes
+projects: []
+---
+
+Das Risiko einer Peritonealkarzinose (besserer Begriff: einer [peritonealen Metastasierung (PM)]{style="color:red"} beim kolorektalen Karzinom (Darmkrebs) hängt von einigen Faktoren ab. Anhand des folgenden Beitrags sollen die unterschiedlichen Konstellationen bei der Entstehung einer peritonealen Metastasierung bei Darmkrebs veranschaulicht werden. Zusätzlich soll gezeigt werden, dass die Risikogruppe 10% beträgt und eine intensivere Behandlung benötigt ([Paper Honoré et al. 2017](https://www.tandfonline.com/doi/pdf/10.1080/02656736.2017.1306119?needAccess=true)).
+
+![**Abb. 1**: Kurativ resezierte kolorektale Karzinome (KRK) UICC I-III entwickeln in 3-6% eine metachrone PM.](images/pm_kurativ_resezierte_krk.png)
+
+![**Abb. 2**: Patient/Innen, die bei der Erstoperation eine PM hatten (5-10%) entwickeln nach einer R0 Resektion in 54% bis 71% eine metachrone PM nach einem Jahr. Das bedeutet, dass diese Patient/Innen nach einer gelungenen ersten Operation und mit einer Latenz von einem Jahr in über Zweidrittel der Fälle eine peritoneale Metastasierung entwickeln.](images/pm_bei_erst_op.png)
+
+![**Abb. 3**: 1- 7% der Patientinnen haben eine Ovarmetastase. Nach R0-Resektion entwickeln diese bis zu 71% eine PM. Beim perforierten KRK beträgt das Risiko \\\~ 27%. Das heisst, dass ein Drittel der Patient/Innen mit einem perforierten Tumor nach einem Jahr eine PM entwickeln.](images/pm_ovar_perf_krk.png)
+
+![**Abb. 4**: Hier die entsprechenden Zahlen für pT4 Karzinome und muzinös/siegelringzell Karzinome.](images/pm_pt4_muzin_krk.png)

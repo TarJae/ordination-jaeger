@@ -22,39 +22,60 @@ main:
   # - name: Publications
   #   url: '#publications'
   #   weight: 22
+  
+  #1
   - name: Home
     url: '#about'
-    weight: 5
+    weight: 10
+  
+  #2
+  - name: Ordination
+    identifier: ordination
+    weight: 20
   - name: Leistungen
     url: '#skills'
-    weight: 10
-  - name: Ordination
+    parent: ordination
+    weight: 21
+  - name: Privatordination
     url: '#workshops'
-    weight: 20
+    parent: ordination
+    weight: 22
   - name: Kontakt
     url: '#contact'
-    weight: 25
+    parent: ordination
+    weight: 23
+    
+  #3
   - name: Blog
     url: '#posts'
-    weight: 26
+    weight: 30
+    
+  #4
+  - name: Info
+    identifier: info
+    weight: 40
   - name: Galerie
     url: '#gallery'
-    weight: 27
+    parent: info
+    weight: 41
   - name: Auszeichnung Zertifikat
     url: '#accomplishments'
-    weight: 28
-  - name: Medizin
-    identifier: medizin
-    weight: 30
+    parent: info
+    weight: 42
+  
+  #5
+  - name: Projekte
+    identifier: projekte
+    weight: 50
   - name: Science Breakfast
-    parent: medizin
+    parent: projekte
     url: '#sciencebreakfasts'
     weight: 10 
-  - name: Projekte
-    parent: medizin
+  - name: Medizin Apps
+    parent: projekte
     url: '#projects'
     weight: 20
   - name: Poster
-    parent: medizin
+    parent: projekte
     url: '#posters'
     weight: 30
