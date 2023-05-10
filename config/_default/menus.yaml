@@ -40,7 +40,7 @@ main:
     url: '#workshops'
     parent: ordination
     weight: 22
-  - name: Kontakt
+  - name: Kontakt Ordination
     url: '#contact'
     parent: ordination
     weight: 23
@@ -79,3 +79,9 @@ main:
     parent: projekte
     url: '#posters'
     weight: 30
+    
+  #6
+  - name: Kontakt
+    url: '#contact'
+    weight: 60
+

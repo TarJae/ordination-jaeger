@@ -22,7 +22,7 @@ subtitle:
       <li>Kolon- u. Rektumkarzinom
       <li>Peritoneale Metastasierung (Peritonealkarzinose)
       <li>Minimal-invasive Chirurgie
-      <li>Roboterassitierte Operationen
+      <li>Roboterassistierte Operationen
       <li>Entzündliche Erkrankungen des Darms (Morbus Crohn, Colitis ulcerosa, Divertikulitis)
       <li>Erkrankungen des Enddarms (z.B. Hämorrhoiden, Fisteln, Fissuren)
     </UL>
